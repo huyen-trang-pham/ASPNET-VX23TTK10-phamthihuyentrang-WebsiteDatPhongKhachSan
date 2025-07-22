@@ -1,2 +1,2 @@
 # ASPNET-VX23TTK10-phamthihuyentrang-WebsiteDatPhongKhachSan
-## Set up
+## Giới thiệu tổng quan về dự án, cách chạy
